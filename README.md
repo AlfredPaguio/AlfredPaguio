@@ -2,7 +2,7 @@
 <!--
 **AlfredPaguio/AlfredPaguio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-**AlfredPaguio/Portfolio** repository is on WIP, you can visit `https://alfredpaguio.github.io/` for the meantime.
+**AlfredPaguio/Portfolio** repository is on WIP, you can visit https://alfredpaguio.github.io/ for the meantime.
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/FleetingComet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-paguio-322364260)
 
