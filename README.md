@@ -2,6 +2,7 @@
 <!--
 **AlfredPaguio/AlfredPaguio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+**AlfredPaguio/Portfolio** repository is on WIP, you can visit `https://alfredpaguio.github.io/` for the meantime.
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/FleetingComet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-paguio-322364260)
 
@@ -15,6 +16,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
-<img src="https://github-readme-stats-alfred-paguio.vercel.app/api?username=AlfredPaguio&count_private=true&theme=dark">
+<img src="https://github-readme-stats-alfred-paguio.vercel.app/api?username=AlfredPaguio&count_private=true&theme=dark&hello">
 
-<img src="https://github-readme-stats-alfred-paguio.vercel.app/api/top-langs/?username=AlfredPaguio&count_private=true&theme=dark&layout=compact">
+<img src="https://github-readme-stats-alfred-paguio.vercel.app/api/top-langs/?username=AlfredPaguio&count_private=true&theme=dark&layout=compact&hi">
