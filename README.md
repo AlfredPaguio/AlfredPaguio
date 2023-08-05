@@ -16,6 +16,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
-<img src="https://github-readme-stats-alfred-paguio.vercel.app/api?username=AlfredPaguio&count_private=true&theme=dark&hello">
 
-<img src="https://github-readme-stats-alfred-paguio.vercel.app/api/top-langs/?username=AlfredPaguio&count_private=true&theme=dark&layout=compact&hi">
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" src="https://github-readme-stats-alfred-paguio.vercel.app/api?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&hello">
+  <img align="right" src="https://github-readme-stats-alfred-paguio.vercel.app/api/top-langs/?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&layout=compact&hi">
+</details>
+
