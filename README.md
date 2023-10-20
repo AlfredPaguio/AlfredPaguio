@@ -1,10 +1,12 @@
-### Hello there 👋
+```console
+AlfredPaguio@A:~$ AlfredPaguio > README.md
+```
 
 <!--
 **AlfredPaguio/AlfredPaguio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://github.com/AlfredPaguio/Portfolio">**AlfredPaguio/Portfolio**</a> repository is on WIP, you can visit https://alfredpaguio.github.io/ for the meantime.
+<a href="https://github.com/AlfredPaguio/Portfolio">**AlfredPaguio/Portfolio**</a> repository is on Work in Progress, you can visit https://alfredpaguio.github.io/ for the meantime.
 
 ### 🌐 Socials:
 
