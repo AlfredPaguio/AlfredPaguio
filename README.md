@@ -38,8 +38,8 @@ AlfredPaguio@A:~$ AlfredPaguio > README.md
 <details align="center">
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_rank=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&layout=compact">
   </p>
   <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlfredPaguio&theme=modern-lilac2&mode=weekly" alt="GitHub Streak" /></a>
 </details>
