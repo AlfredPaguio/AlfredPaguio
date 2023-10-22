@@ -35,10 +35,9 @@ AlfredPaguio@A:~$ AlfredPaguio > README.md
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=%2300f) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927) 
 <br/>
 
-<details>
+<details align="center">
   <summary>:zap: GitHub Stats</summary>
-  <p align="left">
-  <img src="https://github-readme-stats-alfred-paguio.vercel.app/api?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark">
-  <img align="right" src="https://github-readme-stats-alfred-paguio.vercel.app/api/top-langs/?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&layout=compact">
-  </p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&include_all_commits=true&hide_rank=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredPaguio&show_icons=true&count_private=true&theme=dark&layout=compact">
+  <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlfredPaguio&theme=modern-lilac2&mode=weekly" alt="GitHub Streak" /></a>
 </details>
