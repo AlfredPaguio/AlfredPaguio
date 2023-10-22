@@ -16,7 +16,7 @@ AlfredPaguio@A:~$ AlfredPaguio > README.md
 
 #### Languages:
 
-![C++](https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C) ![C#](https://img.shields.io/badge/C%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120) ![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=5C2D91) ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3670A0)
+![C#](https://img.shields.io/badge/C%23-black.svg?style=for-the-badge&logo=c-sharp&logoColor=%23239120) ![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=5C2D91) ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00) ![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=%23777BB4) ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3670A0) ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC) ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br/>
 
 #### Frameworks:
