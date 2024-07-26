@@ -6,11 +6,7 @@ AlfredPaguio@A:~$ AlfredPaguio > README.md
 **AlfredPaguio/AlfredPaguio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-While the <a href="https://github.com/AlfredPaguio/Portfolio">**AlfredPaguio/Portfolio**</a> repository is on Work in Progress, you can explore its current state by visiting https://alfredpaguio.vercel.app/. Meanwhile, feel free to check out https://alfredpaguio.github.io/ for additional aspects.
-
-Please note that the repository is a reflection of my ongoing work and may not represent the final version.
-
-
+The <a href="https://github.com/AlfredPaguio/Portfolio">AlfredPaguio/Portfolio</a> repository now showcases the completed version of my portfolio. You can explore the final product by visiting https://alfredpaguio.vercel.app/.
 
 ### 🌐 Socials:
 
